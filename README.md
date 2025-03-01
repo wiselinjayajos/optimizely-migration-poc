@@ -1,13 +1,12 @@
-# Optimizely Blog Content Migration - Proof of Concept (POC)
+# Optimizely Content Migration - Proof of Concept (POC)
 
 ## Overview
-This repository contains a Proof of Concept (POC) for migrating blog content to Optimizely. The solution includes scripts and processes to efficiently transfer existing content, including metadata, assets, and links, while ensuring data integrity.
+This repository contains a Proof of Concept (POC) for migrating any source content to Optimizely. The solution includes scripts and processes to efficiently transfer existing content, including metadata, assets, and links, while ensuring data integrity.
 
 ## Features
 - Extracts blog content from the source system
 - Transforms data into a format compatible with Optimizely
-- Updates internal links and asset references
-- Supports batch processing for large-scale migrations
+- Updates asset references
 - Logs migration progress and errors
 
 ## Prerequisites
@@ -40,11 +39,9 @@ This repository contains a Proof of Concept (POC) for migrating blog content to 
 
 ## Code Snippets
 The repository includes key code snippets demonstrating:
-- Content extraction logic
-- Data transformation methods
+- Content extraction logic ( Not Included)
+- Data transformation methods ( Not Included )
 - API interactions for Optimizely
-
-Refer to the `src/` directory for detailed implementation.
 
 ## Contributing
 If you would like to contribute, please fork the repository and submit a pull request with your changes.
@@ -53,4 +50,4 @@ If you would like to contribute, please fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or feedback, reach out to **Wiselin Jaya Jos K** at **wiselin.jaya@gmail.com**.
+For any queries or feedback, **[Contact me](https://www.wiselinjayajos.com/contact/).**
